@@ -1,0 +1,106 @@
+a[data-testid="SideNav_NewTweet_Button"] {
+  background-color: #fcd8e3 !important;
+  background: repeating-linear-gradient(
+    45deg,
+    #ffadc6,
+    #ffadc6 5px,
+    #fcd8e3 5px,
+    #fcd8e3 25px
+  );
+}
+
+a[data-testid="editProfileButton"] {
+  background-color: #fcd8e3 !important;
+  background: repeating-linear-gradient(
+    45deg,
+    #ffadc6,
+    #ffadc6 5px,
+    #fcd8e3 5px,
+    #fcd8e3 25px
+  );
+}
+
+/* Cible le texte à l'intérieur du bouton */
+a[data-testid="SideNav_NewTweet_Button"] span {
+  color: black !important;
+}
+
+button[data-testid="tweetButtonInline"] {
+  background-color: #fcd8e3 !important;
+  background: repeating-linear-gradient(
+    45deg,
+    #ffadc6,
+    #ffadc6 5px,
+    #fcd8e3 5px,
+    #fcd8e3 25px
+  );
+}
+
+a[data-testid="empty_state_button_text"] {
+  background-color: #fcd8e3 !important;
+  background: repeating-linear-gradient(
+    45deg,
+    #ffadc6,
+    #ffadc6 5px,
+    #fcd8e3 5px,
+    #fcd8e3 25px
+  );
+}
+
+section[aria-labelledby="detail-header"] > div {
+  background-color: #ccecf9 !important;
+}
+
+/* Cible le texte à l'intérieur du bouton */
+button[data-testid="tweetButtonInline"] div {
+  color: black !important;
+}
+div[data-testid="primaryColumn"] {
+  background-color: #ccecf9 !important;
+}
+
+div[data-testid="DmScrollerContainer"] {
+  background-color: #ccecf9 !important;
+}
+section[aria-labelledby="root-header"] {
+  background-color: #ccecf9 !important;
+}
+
+body {
+  background-color: #ccecf9 !important;
+}
+
+aside {
+  background-color: #ccecf9 !important;
+}
+
+section {
+  background-color: #ccecf9 !important;
+}
+
+.css-175oi2r.r-1e5uvyk.r-6026j {
+  background-color: #ccecf9 !important;
+}
+
+.css-175oi2r.r-1awozwy.r-aqfbo4.r-14lw9ot.r-18u37iz.r-1h3ijdo.r-6gpygo.r-15ysp7h.r-1xcajam.r-ipm5af.r-136ojw6.r-1hycxz {
+  background-color: #ccecf9 !important;
+}
+
+.css-175oi2r.r-14lw9ot.r-1h8ys4a.r-1mmae3n {
+  background-color: #ccecf9 !important;
+}
+
+.css-175oi2r.r-14lw9ot.r-jumn1c.r-xd6kpl.r-gtdqiz.r-ipm5af.r-184en5c {
+  background-color: #ccecf9 !important;
+}
+
+.css-175oi2r.r-xoduu5.r-xyw6el.r-13qz1uu.r-1e084wi {
+  background-color: #ccecf9 !important;
+}
+
+.css-175oi2r.r-14lw9ot.r-1h8ys4a {
+  background-color: #ccecf9 !important;
+}
+div[data-testid="toolBar"] {
+  background-color: #ccecf9 !important;
+}
